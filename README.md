@@ -32,12 +32,17 @@ The primary data source for this analysis will be the dataset provided by the So
 3.	Exploring Data: Conduct exploratory data analysis to gain initial insights into the dataset and visualize trends.
 4.	Suburb Comparison: Compare median house sales prices in different suburbs using statistical measures and visualization techniques. Identify top-performing and underperforming suburbs.
 5.	Correlation Analysis: Investigate potential correlations between house prices and other factors, such as locations of the suburbs.
+      _We have splitted the location of suburbs around Adelaide CBD for analysis, starting with Jordan with Easten suburbs, Van with Southen Suburbs, Magdalene with Western Sburbs and Isha with Northen Suburbs:_
+  	_- Jordan: Eastern Suburbs (Burnside & Norwood)_
+  	_- Van: Southern Suburbs (Flagstaff Hill, Goodwood, Edwardstown, Pasadena, Adelaide CBD)_
+   _- Magdalene: Western suburbs (Findon, Grange & Seaton)_
+   _- Isha: Northen Suburbs (Modbury, Salisbury, North Adelaide, Enfield)_
+  	   
 6.	Insights: Summarize the findings from the analysis and provide insights to stakeholders in the presentation.
    
-# Notes: The Data Cleaning Jupyter Notebook includes the steps by steps of Data Collection, Data Cleaning and Exploring Data steps listed below. The Data Cleaning Notebook is using Python Pandas coding to combine data from the downloaded csv files, clean the data, and ensure the final data combinations are reliable for analysis. The Data Analysis and Visualisation Jupyter Notebook includes plotting processing and visualising data. 
+_**Notes: The Data Cleaning Jupyter Notebook includes the steps by steps of Data Collection, Data Cleaning and Exploring Data steps listed below. The Data Cleaning Notebook is using Python Pandas coding to combine data from the downloaded csv files, clean the data, and ensure the final data combinations are reliable for analysis. The Data Analysis and Visualisation Jupyter Notebook includes plotting processing and visualising data.**_
 
-Van: flagstaff hill, goodwood, edwardstown, pasadena, adelaide cbd. Jordan: Western Suburbs (Burnside & Norwood)
-Isha: Modbury, Salisbury, North Adelaide, Enfield
-Magdalene: My Western suburbs are Greenacres, Grange & Seaton
+
+
 
 
