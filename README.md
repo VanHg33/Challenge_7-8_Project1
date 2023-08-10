@@ -2,6 +2,8 @@
 
 #**Data Analysis of Real Estate Market in Different Suburbs in South Australia**
 --------------------------------------------------
+
+
 Group Members: Jordan Kane, Van Hoang, Isha Sharma & Magdalene Singh
 Overview
 The objective of this data analysis project is to examine the real estate market in different suburbs of South Australia using the dataset provided by the South Australian Government's Data Portal https://data.sa.gov.au/data/dataset/metro-median-house-sales . The dataset contains information on median house sales prices in various suburbs over a period of time. By analysing this data, we aim to gain insights into the trends and patterns affecting the housing market in different suburbs of South Australia before and after COVID 19.
