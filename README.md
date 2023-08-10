@@ -7,7 +7,7 @@ _**Group Members: Jordan Kane, Van Hoang, Isha Sharma & Magdalene Singh**_
 **Data Analysis of Real Estate Market in Different Suburbs in South Australia**
 --------------------------------------------------
 
-# **Research questions**
+***Research questions***
 
 The project question is **“Has the price of housing in the Adelaide suburbs changed since before and after COVID?”**
 
