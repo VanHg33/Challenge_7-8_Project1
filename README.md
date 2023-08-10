@@ -93,6 +93,9 @@ Median prices in these 3 suburbs started dropping from the 1st quarter of 2021, 
 
 ______**Northern Suburbs**______
 
+How the median house price in selected Northen Suburbs changed from 2017 to quarter 2 2023?
+
+![image](https://github.com/VanHg33/Challenge_7-8_Project1/assets/135322223/c0c6a006-7788-499e-b6f3-4efeb4325c62)
 
 
 **Conclusion**
