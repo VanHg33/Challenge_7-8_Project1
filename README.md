@@ -97,6 +97,7 @@ How the median house price in selected Northen Suburbs changed from 2017 to quar
 
 ![image](https://github.com/VanHg33/Challenge_7-8_Project1/assets/135322223/c0c6a006-7788-499e-b6f3-4efeb4325c62)
 
+For the analysis of the northern suburbs, we will examine North Adelaide, Enfield, Modbury, and Salisbury. These suburbs are arranged in increasing distances from the CBD. Given that North Adelaide is adjacent to the CBD, we can anticipate higher prices. Enfield is slightly closer to the CBD compared to Modbury, resulting in a higher price as well. However, from 2022 to 2023, the house prices in Modbury are catching up with Enfield. Salisbury is the farthest suburb in this analysis, suggesting that it likely has the most affordable house prices among the others.
 
 **Conclusion**
 
