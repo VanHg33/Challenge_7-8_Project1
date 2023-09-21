@@ -1,7 +1,7 @@
 # Challenge_7-8_Project1
 Group Project 
 
-_**Group Members: Jordan Kane, Van Hoang, Isha Sharma & Magdalene Singh**_
+_**Group Members: Van Hoang, Jordan Kane, Magdalene Singh and Isha Sharma**_
 
 # Project name: 
 **Data Analysis of Real Estate Market in Different Suburbs in South Australia**
